@@ -1,1 +1,0 @@
-Copy shoe.png, shoe2.png, shoe3.png and shoe4.png from your existing SOLEVA project into this folder.
